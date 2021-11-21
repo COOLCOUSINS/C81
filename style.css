@@ -1,0 +1,15 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=USAfKuOg&id=9BB46B8D084ABC3E8D523BA0F285C7750F049ADC&thid=OIP.USAfKuOg8BEkHFpgXG0cXwHaE8&mediaurl=https%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f270000%2fvelka%2fflower-floral-background-border-1530598617lhG.jpg&exph=1283&expw=1919&q=background+image+border&simid=608053926317207628&FORM=IRPRST&ck=39DDB340B11A6FC71E69711021012FC9&selectedIndex=1&adlt=strict);
+	background-position: center;
+	background-size: cover;
+}
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
